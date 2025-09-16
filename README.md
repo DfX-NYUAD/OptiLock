@@ -2,9 +2,9 @@
 
 > 🏅 This work has been **accepted for publication in IEEE Access** (2025).
 
-<p align="left">
-  <img src="figs/ieee_access.png" alt="IEEE Access" width="120" align="right"/>
-</p>
+<!-- <p align="left">
+  <img src="figs/ieee_access.png" alt="IEEE Access" width="150" align="right"/>
+</p> -->
 
 
 Author: Zeng Wang, Lilas Alrahis, Animesh Basak Chowdhury, Dominik Germek, Ramesh Karri, Ozgur Sinanoglu
